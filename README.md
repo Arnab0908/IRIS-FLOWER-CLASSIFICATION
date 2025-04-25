@@ -13,9 +13,3 @@ petal width (cm)	Petal width of the flower
 species	Flower species label
 
 
-├── results/
-│   ├── confusion_matrix.png        # Evaluation output
-│   └── classification_report.txt   # Accuracy and precision metrics
-│
-├── requirements.txt                # Project dependencies
-└── README.md                       # Project overview
